@@ -17,6 +17,7 @@ public class TestJenkinsApplication {
 	public void init(){
 		logger.info("Application Startred");
 		logger.info("Application Startred New");
+		logger.info("Application uday New");
 	}
 
 	public static void main(String[] args) {
