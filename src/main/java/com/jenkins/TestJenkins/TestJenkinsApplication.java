@@ -16,6 +16,7 @@ public class TestJenkinsApplication {
 	@PostConstruct
 	public void init(){
 		logger.info("Application Startred");
+		logger.info("Application Startred New");
 	}
 
 	public static void main(String[] args) {
